@@ -53,7 +53,7 @@
 // --- PROFESSIONAL SUMMARY ---
 #section("Professional Summary")
 #text(size: 9.2pt)[
-  Passionate Aspiring Full-Stack Developer and Computer Science student specializing in responsive web applications, interactive educational tools, and API backend architectures. Proficient in HTML5, CSS3, JavaScript, Node.js, and Express, with strong C++ fundamentals and Python familiarity. Experienced in leveraging autonomous AI coding agents (Google Antigravity, Claude Code) to accelerate software engineering velocity.
+  Passionate Computer Science student and Aspiring Full-Stack Developer focused on building clean web applications, interactive developer tools, and reliable backend APIs. Strong foundation in JavaScript, Node.js, HTML/CSS, and C++, with an emphasis on simple, scalable software and continuous learning.
 ]
 
 // --- EDUCATION ---
