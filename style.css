@@ -158,6 +158,24 @@ body {
   transform: scale(1.25);
 }
 
+.brand-cursor {
+  display: inline-block;
+  width: 6px;
+  height: 13px;
+  background-color: var(--accent-white);
+  margin-left: 2px;
+  animation: cursor-blink 1s step-start infinite;
+}
+
+@keyframes cursor-blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
 .nav-links {
   display: flex;
   align-items: center;
