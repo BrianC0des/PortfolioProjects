@@ -1,11 +1,11 @@
 # Bryan P. Saavedra
-**Full-Stack Developer & Computer Science Student**  
+**Aspiring Full-Stack Developer & Computer Science Student**  
 Zamboanga City, Philippines • [bryansaavedrab272@gmail.com](mailto:bryansaavedrab272@gmail.com) • [github.com/BrianC0des](https://github.com/BrianC0des)
 
 ---
 
 ## 🎯 Professional Summary
-Passionate Full-Stack Developer and Computer Science student specializing in responsive web applications, interactive educational tools, and API backend architectures. Proficient in HTML5, CSS3, JavaScript, Node.js, and Express, with strong C++ fundamentals and Python familiarity. Experienced in leveraging autonomous AI coding agents (Google Antigravity, Claude Code) to accelerate software engineering velocity.
+Passionate Aspiring Full-Stack Developer and Computer Science student specializing in responsive web applications, interactive educational tools, and API backend architectures. Proficient in HTML5, CSS3, JavaScript, Node.js, and Express, with strong C++ fundamentals and Python familiarity. Experienced in leveraging autonomous AI coding agents (Google Antigravity, Claude Code) to accelerate software engineering velocity.
 
 ---
 
