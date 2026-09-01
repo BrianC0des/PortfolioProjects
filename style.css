@@ -160,10 +160,11 @@ body {
 
 .brand-cursor {
   display: inline-block;
-  width: 6px;
-  height: 13px;
+  width: 2px;
+  height: 1.05em;
   background-color: var(--accent-white);
-  margin-left: 2px;
+  margin-left: 1.5px;
+  vertical-align: -1.5px;
   animation: cursor-blink 1s step-start infinite;
 }
 
